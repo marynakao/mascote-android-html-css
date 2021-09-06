@@ -3,7 +3,7 @@
 
 
 ## 📄 Sobre
-Este projeto foi desenvolvido ao final do Módulo 2 do curso de HTML e CSS, do professor Gustavo Guanabara, disponível na plataforma [Curso em Vídeo](https://www.cursoemvideo.com/).
+Este projeto foi desenvolvido ao final do Módulo 2 do curso de HTML e CSS, do professor [Gustavo Guanabara](https://github.com/gustavoguanabara), disponível na plataforma [Curso em Vídeo](https://www.cursoemvideo.com/).
 
 Trata-se de um site informativo sobre a evolução do mascote do Android e suas versões. No site é possível ver imagens e vídeos relacionados ao conteúdo.
 
